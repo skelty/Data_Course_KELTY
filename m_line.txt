@@ -1,0 +1,7 @@
+  4944 MOMS-PI_16S_STIRRUPS_profiles_POP1.txt
+    46 MOMS-PI_README.txt
+   204 MOMS-PI_subject_kit_sample_mapping_POP1.txt
+    10 Soil_Predators_README.txt
+   131 thatch_ant_info.txt
+    14 trait_data_README.txt
+  5349 total
